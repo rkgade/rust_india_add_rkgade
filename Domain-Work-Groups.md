@@ -3,7 +3,7 @@
 ### 1. Networking services
 Focus on the end-to-end experience for both sync and async networking code, in coordination with the growing ecosystem in this space.
 
-Members:
+Members: @krishnakumar4a4
 
 ### 2. WebAssembly
 Focus on the end-to-end experience of embedding Rust code in JS libraries and apps via WebAssembly.
@@ -18,7 +18,7 @@ Members:
 ### 4. Embedded devices
 Focus on the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms.
 
-Members:
+Members: @pcein
 
 # Deadline
 
