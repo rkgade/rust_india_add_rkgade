@@ -20,9 +20,6 @@ Focus on the end-to-end experience of using Rust in resource-constrained environ
 
 Members: @pcein
 
-# Deadline
-
-Phase 1: March 31, 2018.
 
 **If interested, feel free to edit this wiki and add your name to the relevant domain of your interest.**
 
