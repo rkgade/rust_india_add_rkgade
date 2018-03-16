@@ -8,7 +8,7 @@ Members: @krishnakumar4a4
 ### 2. WebAssembly
 Focus on the end-to-end experience of embedding Rust code in JS libraries and apps via WebAssembly.
 
-Members:
+Members:@vigneshwerd
 
 ### 3. CLI apps
 Focus on the end-to-end experience of writing CLI apps, both large and small, in Rust.
