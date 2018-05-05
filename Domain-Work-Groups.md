@@ -13,7 +13,7 @@ Members:@vigneshwerd
 ### 3. CLI apps
 Focus on the end-to-end experience of writing CLI apps, both large and small, in Rust.
 
-Members:
+Members:@rkgade
 
 ### 4. Embedded devices
 Focus on the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms.
